@@ -49,7 +49,7 @@ Este estudo me ajudou na **consolidação de conceitos fundamentais** e desenvol
 
 ## ✍️ Autor
 
-Feito por **Yago Gutterres** – [LinkedIn]((https://www.linkedin.com/in/yagogutterres/)) 
+Feito por **Yago Gutterres** – [LinkedIn](https://www.linkedin.com/in/yagogutterres/) 
 
 ---
 
