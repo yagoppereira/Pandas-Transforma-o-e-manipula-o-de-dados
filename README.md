@@ -21,7 +21,7 @@ Este repositório contém anotações, práticas e desafios que realizei utiliza
 
 - [`exercícios pandas_ transformação e manipulação de dados.ipynb`](./exercícios%20pandas_%20transformação%20e%20manipulação%20de%20dados): notebook principal com todo o processo comentado e estruturado.
 # 📂 Pasta complementar
--[`dados_locacao_imoveis.json`]
+-[`dados_locacao_imoveis.json`]\
  [`dados_vendas_clientes.json`]: Bases de dados utilizadas para tratamento & análise.
 ---
 
